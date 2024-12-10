@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/kensnyder/quill-image-resize-module#readme",
   "devDependencies": {
-    "babel-cli": "^6.24.0",
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^7.2.1",
     "babel-loader": "^6.4.1",
     "babel-plugin-transform-class-properties": "^6.23.0",
